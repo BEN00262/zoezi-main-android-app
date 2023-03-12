@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Zoezi Revision</string>
+    <string name="karib_zoezi">Karibu Zoezi</string>
+    <string name="vision2">Empowering the learning community</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="internet_not_found">check your internet connection</string>
+    <string name="try_again">Try Again</string>
+    <string name="footer">&lt;a href="https://www.zoezieducation.com/termsofuse">Terms of Use&lt;/a> and &lt;a href="https://www.zoezieducation.com/privacynotice">Privacy Notice&lt;/a></string>
+    <string name="z">Z</string>
+    <string name="i">I</string>
+    <string name="e">E</string>
+    <string name="o_z">O</string>
+
+<!--    OTP verification -->
+    <string name="verification_code">OTP Verification</string>
+    <string name="verify_account_description">We have sent OTP to the registered phone number for verification</string>
+    <string name="verify_account_btn_text">Verify &amp; Proceed</string>
+    <string name="didn_t_receive_the_otp">Didn\'t Receive the OTP?</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="start_transaction">START TRANSACTION</string>
+    <string name="verified_successfully">Verified successfully!</string>
+
+
+    <string name="rate_popup_ask_title">Like this App?</string>
+    <string name="rate_popup_ask_message">Do you like using Zoezi Revision App?</string>
+    <string name="rate_popup_ask_ok">Yes I do</string>
+    <string name="rate_popup_ask_no">Not really</string>
+
+    <string name="rate_popup_title">Rate this app</string>
+    <string name="rate_popup_message">Please take a moment to rate the app. Thank you.</string>
+    <string name="rate_popup_ok">Rate now</string>
+    <string name="rate_popup_later">Remind me later</string>
+    <string name="rate_popup_no">No, thanks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/rotated"
+            android:tint="#50000000"
+            android:tintMode="src_over"
+            android:tileMode="disabled"
+            />
+    </item>
+</layer-list>
